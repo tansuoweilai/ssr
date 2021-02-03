@@ -1,0 +1,484 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - name: 🇺🇸 US_2990 |99.44Mb
+    server: 212.102.40.83
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3030 |108.71Mb
+    server: 192.111.134.200
+    type: ss
+    country: 🇺🇸 US
+    port: 31944
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3040 |143.35Mb
+    server: 45.89.173.205
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3050 |326.15Mb
+    server: 172.245.218.162
+    type: ss
+    country: 🇺🇸 US
+    port: 805
+    password: G!yBwPWH3Vao
+    cipher: chacha20-ietf-poly1305
+  - name: 🇺🇸 US_3053 |106.73Mb
+    server: 104.200.131.245
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3057 |207.22Mb
+    server: 192.111.134.80
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3128 |197.59Mb
+    server: 195.206.104.174
+    type: ss
+    country: 🇺🇸 US
+    port: 810
+    password: G!yBwPWH3Vao
+    cipher: chacha20-ietf-poly1305
+  - name: 🇺🇸 US_3142 |108.55Mb
+    server: 199.10.64.101
+    type: ss
+    country: 🇺🇸 US
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3198 |158.27Mb
+    server: 45.148.8.171
+    type: ss
+    country: 🇺🇸 US
+    port: 8838
+    password: 123456
+    cipher: chacha20-ietf-poly1305
+  - name: 🇺🇸 US_3221 |383.29Mb
+    server: 89.187.187.149
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3236 |238.74Mb
+    server: 192.111.134.205
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3237 |123.33Mb
+    server: 184.170.243.199
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3255 |609.91Mb
+    server: 89.187.187.149
+    type: ss
+    country: 🇺🇸 US
+    port: 37473
+    password: enctdKyJfSu76VqznKwTt6Ap
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3258 |256.95Mb
+    server: 172.245.218.162
+    type: ss
+    country: 🇺🇸 US
+    port: 810
+    password: G!yBwPWH3Vao
+    cipher: chacha20-ietf-poly1305
+  - name: 🇺🇸 US_3321 |225.70Mb
+    server: 89.187.187.147
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3360 |235.36Mb
+    server: 195.206.104.174
+    type: ss
+    country: 🇺🇸 US
+    port: 805
+    password: G!yBwPWH3Vao
+    cipher: chacha20-ietf-poly1305
+  - name: 🇺🇸 US_3489 |251.75Mb
+    server: 192.111.134.215
+    type: ss
+    country: 🇺🇸 US
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3530 |536.87Mb
+    server: 89.187.187.88
+    type: ss
+    country: 🇺🇸 US
+    port: 31944
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+    cipher: aes-256-gcm
+  - name: 🇺🇸 US_3585 |215.86Mb
+    server: 192.111.134.200
+    type: ss
+    country: 🇺🇸 US
+    port: 37473
+    password: enctdKyJfSu76VqznKwTt6Ap
+    cipher: aes-256-gcm
+ 
+  - name: 🇬🇧 GB_1597 |31.35Mb
+    server: 185.108.105.15
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1600 |30.56Mb
+    server: 185.108.105.38
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1601 |30.45Mb
+    server: 86.106.136.91
+    type: ss
+    country: 🇬🇧 GB
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1602 |30.93Mb
+    server: 193.148.17.85
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1616 |30.82Mb
+    server: 185.108.105.35
+    type: ss
+    country: 🇬🇧 GB
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1617 |33.98Mb
+    server: 194.37.98.5
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1618 |30.59Mb
+    server: 185.141.206.182
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1626 |32.13Mb
+    server: 86.106.136.93
+    type: ss
+    country: 🇬🇧 GB
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1627 |33.80Mb
+    server: 86.106.136.85
+    type: ss
+    country: 🇬🇧 GB
+    port: 40093
+    password: x23Z4LGkGDkThZ9Kaz4DURQp
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1643 |32.83Mb
+    server: 86.106.136.85
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1644 |34.95Mb
+    server: 86.106.136.85
+    type: ss
+    country: 🇬🇧 GB
+    port: 35294
+    password: J9Y2ncrdPEC38gwydNFFGBna
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1647 |32.73Mb
+    server: 193.148.17.133
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇬🇧 GB_1648 |33.01Mb
+    server: 192.145.126.131
+    type: ss
+    country: 🇬🇧 GB
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇨🇦 CA_482 |108.17Mb
+    server: 66.115.147.94
+    type: ss
+    country: 🇨🇦 CA
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇨🇦 CA_497 |116.27Mb
+    server: 172.83.40.147
+    type: ss
+    country: 🇨🇦 CA
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇨🇦 CA_515 |103.57Mb
+    server: 66.115.147.67
+    type: ss
+    country: 🇨🇦 CA
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇨🇦 CA_548 |102.80Mb
+    server: 66.115.147.74
+    type: ss
+    country: 🇨🇦 CA
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇨🇦 CA_559 |106.51Mb
+    server: 66.115.147.89
+    type: ss
+    country: 🇨🇦 CA
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇨🇦 CA_576 |109.62Mb
+    server: 66.115.147.92
+    type: ss
+    country: 🇨🇦 CA
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇰🇷 KR_2129 |17.89Mb
+    server: 103.249.31.28
+    type: ss
+    country: 🇰🇷 KR
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇰🇷 KR_2136 |18.22Mb
+    server: 61.14.210.244
+    type: ss
+    country: 🇰🇷 KR
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇰🇷 KR_2141 |23.08Mb
+    server: 61.14.210.232
+    type: ss
+    country: 🇰🇷 KR
+    port: 37473
+    password: enctdKyJfSu76VqznKwTt6Ap
+    cipher: aes-256-gcm
+  - name: 🇰🇷 KR_2145 |24.25Mb
+    server: 27.255.77.195
+    type: ss
+    country: 🇰🇷 KR
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇰🇷 KR_2151 |17.79Mb
+    server: 103.249.31.24
+    type: ss
+    country: 🇰🇷 KR
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2060 |39.70Mb
+    server: 89.187.161.239
+    type: ss
+    country: 🇯🇵 JP
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2061 |36.58Mb
+    server: 45.87.213.87
+    type: ss
+    country: 🇯🇵 JP
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2062 |38.00Mb
+    server: 45.87.213.245
+    type: ss
+    country: 🇯🇵 JP
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2065 |37.45Mb
+    server: 84.17.34.26
+    type: ss
+    country: 🇯🇵 JP
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2067 |39.83Mb
+    server: 185.242.4.163
+    type: ss
+    country: 🇯🇵 JP
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2069 |37.35Mb
+    server: 45.87.213.213
+    type: ss
+    country: 🇯🇵 JP
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2070 |40.16Mb
+    server: 45.87.213.7
+    type: ss
+    country: 🇯🇵 JP
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2071 |40.40Mb
+    server: 45.87.213.19
+    type: ss
+    country: 🇯🇵 JP
+    port: 31764
+    password: YgusH2MWA8PWc3p2VDsR7AVv
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2072 |41.12Mb
+    server: 89.187.161.241
+    type: ss
+    country: 🇯🇵 JP
+    port: 35294
+    password: J9Y2ncrdPEC38gwydNFFGBna
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2073 |37.90Mb
+    server: 45.87.213.103
+    type: ss
+    country: 🇯🇵 JP
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2076 |36.54Mb
+    server: 45.87.213.85
+    type: ss
+    country: 🇯🇵 JP
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2077 |39.10Mb
+    server: 45.87.213.105
+    type: ss
+    country: 🇯🇵 JP
+    port: 39772
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    cipher: aes-256-gcm
+  - name: 🇯🇵 JP_2078 |36.47Mb
+    server: 89.187.161.2
+    type: ss
+    country: 🇯🇵 JP
+    port: 31764
+    password: YgusH2MWA8PWc3p2VDsR7AVv
+    cipher: aes-256-gcm
+
+  - name: 🇯🇵 JP_2097 |36.27Mb
+    server: 66.42.43.239
+    type: vmess
+    country: 🇯🇵 JP
+    port: 443
+    uuid: 43e7dc88-6153-11eb-aa88-5600032bafd1
+    alterId: 12
+    cipher: auto
+    network: ws
+    ws-path: /I8P3SdWO/
+    servername: gmegme.ga
+    ws-headers: null
+    HOST: gmegme.ga
+    tls: true
+    skip-cert-verify: true
+
+  - name: 🇭🇰 HK_1696 |30.33Mb
+    server: 212.102.42.194
+    type: ss
+    country: 🇭🇰 HK
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇭🇰 HK_1703 |30.19Mb
+    server: 84.17.57.148
+    type: ss
+    country: 🇭🇰 HK
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇭🇰 HK_1707 |30.17Mb
+    server: 84.17.57.73
+    type: ss
+    country: 🇭🇰 HK
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇭🇰 HK_1714 |30.39Mb
+    server: 212.102.42.194
+    type: ss
+    country: 🇭🇰 HK
+    port: 37588
+    password: kD9vkjnE6dsUzwQfvKkPkQAd
+    cipher: aes-256-gcm
+  - name: 🇭🇰 HK_1720 |34.56Mb
+    server: 212.102.42.199
+    type: ss
+    country: 🇭🇰 HK
+    port: 33992
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    cipher: aes-256-gcm
+  - name: 🇭🇰 HK_1722 |30.20Mb
+    server: 84.17.57.148
+    type: ss
+    country: 🇭🇰 HK
+    port: 37588
+    password: kD9vkjnE6dsUzwQfvKkPkQAd
+    cipher: aes-256-gcm
+  - name: 🇭🇰 HK_1744 |30.24Mb
+    server: 219.76.161.234
+    type: vmess
+    country: 🇭🇰 HK
+    port: 64910
+    uuid: 54039243-db93-34bf-9d6c-598db097247a
+    alterId: 23
+    cipher: auto
+    network: ws
+    ws-path: /36071ppp
+    servername: www.pccw.com
+    ws-headers: null
+    HOST: www.pccw.com
+    skip-cert-verify: true
+  - name: 🇭🇰 HK_1750 |43.21Mb
+    server: 45.77.21.79
+    type: vmess
+    country: 🇭🇰 HK
+    port: 41011
+    uuid: 4062cfc7-8d5d-47b3-871d-9796773c972f
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /
+    skip-cert-verify: true
