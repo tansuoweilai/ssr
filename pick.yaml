@@ -7,6 +7,8 @@
 proxies:
 - {"name":"🇦🇹 AT_131 |30.18Mb","server":"89.187.168.56","type":"ss","country":"🇦🇹 AT","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
 - {"name":"🇳🇱 NL_2686 |32.97Mb","server":"212.102.35.216","type":"ss","country":"🇳🇱 NL","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵 JP_2397 |26.98Mb","server":"tky3.ssgnode.ga","type":"trojan","country":"🇯🇵 JP","port":443,"password":"23115_5a451f03","skip-cert-verify":true,"udp":true}
+
 - {"name":"🇸🇬 SG_3022 |32.35Mb","server":"89.187.163.197","type":"ss","country":"🇸🇬 SG","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
 - {"name":"🇸🇬 SG_3023 |30.09Mb","server":"156.146.56.137","type":"ss","country":"🇸🇬 SG","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
 - {"name":"🇸🇬 SG_3025 |27.83Mb","server":"172.104.161.54","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
